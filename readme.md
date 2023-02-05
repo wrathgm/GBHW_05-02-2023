@@ -9,5 +9,5 @@ git branch -M master
 
 git push origin master
 
-git push -u origin master
+git push -u origin second
 
